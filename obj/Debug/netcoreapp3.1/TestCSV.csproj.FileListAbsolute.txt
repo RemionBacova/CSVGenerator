@@ -1,0 +1,12 @@
+C:\Users\remio\source\repos\TestCSV\bin\Debug\netcoreapp3.1\TestCSV.exe
+C:\Users\remio\source\repos\TestCSV\bin\Debug\netcoreapp3.1\TestCSV.deps.json
+C:\Users\remio\source\repos\TestCSV\bin\Debug\netcoreapp3.1\TestCSV.runtimeconfig.json
+C:\Users\remio\source\repos\TestCSV\bin\Debug\netcoreapp3.1\TestCSV.runtimeconfig.dev.json
+C:\Users\remio\source\repos\TestCSV\bin\Debug\netcoreapp3.1\TestCSV.dll
+C:\Users\remio\source\repos\TestCSV\bin\Debug\netcoreapp3.1\TestCSV.pdb
+C:\Users\remio\source\repos\TestCSV\obj\Debug\netcoreapp3.1\TestCSV.csproj.CoreCompileInputs.cache
+C:\Users\remio\source\repos\TestCSV\obj\Debug\netcoreapp3.1\TestCSV.AssemblyInfoInputs.cache
+C:\Users\remio\source\repos\TestCSV\obj\Debug\netcoreapp3.1\TestCSV.AssemblyInfo.cs
+C:\Users\remio\source\repos\TestCSV\obj\Debug\netcoreapp3.1\TestCSV.dll
+C:\Users\remio\source\repos\TestCSV\obj\Debug\netcoreapp3.1\TestCSV.pdb
+C:\Users\remio\source\repos\TestCSV\obj\Debug\netcoreapp3.1\TestCSV.genruntimeconfig.cache
